@@ -2435,10 +2435,6 @@ http://176.118.197.101/Komediya/index.m3u8
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Мир сериала
 http://176.118.197.101/MirSeriala/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Драйв
-http://176.118.197.125/Draiv/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Здоровое ТВ
-http://176.118.197.125/Zdorovoe-TV/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", 2x2
 http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", СТС
@@ -2449,22 +2445,6 @@ http://176.118.197.101/Che/index.m3u8
 http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Ретро
 http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Boomerang
-http://176.118.197.125/Boomerang/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Бобёр
-http://176.118.197.125/Bober/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Ani
-http://176.118.197.125/Ani/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Gulli Girl
-http://176.118.197.125/Gulli-Girl/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", JimJam
-http://176.118.197.125/JimJam/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Карусель
-http://176.118.197.125/Karusel/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Мама
-http://176.118.197.125/Mama/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Матч ТВ
-http://176.118.197.125/Match/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", KHL
 http://176.118.197.101/KHL/index.m3u8
 
