@@ -4,7 +4,7 @@
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Золотая коллекция
 http://hls127.freeott.top:8080/Mosfilm/video.m3u8
-#EXTI RNF:-1 group-title="KINO+📺",Золотая коллекция М 
+#EXTINF:-1 group-title="KINO+📺",Золотая коллекция М 
 http://178.134.1.158:8081/mosfilm/index.m3u8?token=tva.in.ua
 #EXTINF:-1 group-title="KINO+📺",Ретро sd
 http://176.118.197.101/Retro/index.
