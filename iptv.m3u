@@ -7,7 +7,7 @@ http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 #EXTINF:-1 group-title="KINO+📺",Золотая коллекция М 
 http://178.134.1.158:8081/mosfilm/index.m3u8?token=tva.in.ua
 #EXTINF:-1 group-title="KINO+📺",Ретро sd
-http://176.118.197.101/Retro/index.
+http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Ностальгия 
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 #EXTINF:-1 group-title="KINO+📺",Кинопремьера HD
