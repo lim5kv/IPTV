@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 
+#EXTINF:-1 group-title="Турция 🇹🇷",Футболисты 10 серия
+https://hls.armdb.org/file/armdb-hls/videos/102609/p_1.m3u8
+
 #EXTINF:-1 group-title="KINO+📺",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Золотая коллекция
