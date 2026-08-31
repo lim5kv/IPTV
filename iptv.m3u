@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-1 group-title="Турция 🇹🇷",Футболисты 10 серия
-https://hls.armdb.org/file/armdb-hls/videos/102609/p_1.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",Футболисты 11 серия
 https://hls.armdb.org/file/armdb-hls/videos/102708/p_1.m3u8
 
 #EXTINF:-1 group-title="Турция 🇹🇷",Законы природы 11 серия
 https://hls.armdb.org/file/armdb-hls/videos/102633/p_1.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Законы природы 12 серия
+https://hls.armdb.org/file/armdb-hls/videos/102729/p_1.m3u8
